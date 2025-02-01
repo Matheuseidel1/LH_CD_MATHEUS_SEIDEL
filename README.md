@@ -2,6 +2,8 @@
 
 📌 Pré-requisitos
 
+Intall Anaconda
+
 Python 3.8+
 Pip (gerenciador de pacotes do Python)
 
